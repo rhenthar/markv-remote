@@ -19,3 +19,9 @@
 #                                                                        #
 ##########################################################################
 #
+# Step one: make collar go zap!
+# Step two: ?
+# Step three: profit!
+#
+# A lot planned, and a lot is possible. Expect better documentation, an API, and more. 
+#
